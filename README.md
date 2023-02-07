@@ -27,3 +27,6 @@ Perguntas teóricas:
    R:   Drill down : Ir de um nível mais alto para um nível mais baixo.
       Drill Up :  Ir de um nível mais baixo para um nível mais alto.
 
+Respostas  teste técnico:
+1. Imagem  reposta_01.png disponível no repositório.
+1.1.  A modelagem utilizada é a Start Schema.
