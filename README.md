@@ -29,4 +29,4 @@ Perguntas teóricas:
 
 Respostas  teste técnico:
 1. Imagem  reposta_01.png disponível no repositório.
-1.1.  A modelagem utilizada é a Start Schema.
+1.1.  A modelagem utilizada é a  Snowflake.
